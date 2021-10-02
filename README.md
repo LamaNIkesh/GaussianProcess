@@ -6,3 +6,6 @@ Dogecoin price prediction based on the past 6 months data using non-parametric g
 
 
 ![alt text](https://github.com/LamaNIkesh/GaussianProcess/blob/main/Plots/prediction.png?raw=True)
+
+
+![alt text](https://github.com/LamaNIkesh/GaussianProcess/blob/main/Plots/missing.png?raw=True)
