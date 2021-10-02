@@ -5,4 +5,4 @@ Dogecoin price prediction based on the past 6 months data using non-parametric g
 * Dogecoin price data is extracted using `CoinGeckoAPI`
 
 
-![alt text](https://github.com/LamaNIkesh/GaussianProcess/Plots/prediction.png?raw=true)
+![alt text](https://github.com/LamaNIkesh/GaussianProcess/Plots/prediction.png)
